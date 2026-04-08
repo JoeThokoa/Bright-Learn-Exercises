@@ -1,2 +1,2 @@
 # Bright-Learn-Exercises
-Exercises
+In this folder is the the solutions to the exercises 
